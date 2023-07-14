@@ -2,23 +2,14 @@ package java_projects_1;// This line denotes the folder of the file where it is 
 
 public class starpattern_3 {//class name should be created sames as file name
     public static void main(String[] args) {
-        int rows = 4;
-
-      
-        for (int i = 0; i < rows; i++) {
-            
-            for (int j = 0; j < rows - i - 1; j++) {
-                System.out.print("  "); 
+        int rows = 4; 
+        for (int i = 1; i <= rows; i++) {
+            for (int j = 1; j <= rows - i; j++) {
+                System.out.print(" ");
             }
-
-            // Inner loop for stars
-            for (int k = 0; k <= i; k++) {
-                System.out.print("*"); 
-                if (k < i) {
-                    System.out.print("  "); 
-                }
+            for (int k = 1; k <= i; k++) {
+                System.out.print("*");
             }
-
             System.out.println();
         }
     }
