@@ -1,6 +1,8 @@
+// Write a java program to find first 10 prime numbers from natural numbers.
+
 package java_projects_1;// This line denotes the folder of the file where it is stored
 
-public class primenumber_2 {//class name should be created sames as file name
+public class primenumber_3 {//class name should be created sames as file name
 
   public static boolean isPrime(int number) {
     if(number == 2) return true;

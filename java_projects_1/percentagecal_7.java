@@ -1,7 +1,18 @@
+// 7. Write a program to input marks of five subjects Physics, Chemistry, Biology,
+// Mathematics and Computer. Calculate percentage and grade according to
+// following:
+//  Percentage >= 90% : Grade A
+//  Percentage >= 80% : Grade B
+//  Percentage >= 70% : Grade C
+//  Percentage >= 60% : Grade D
+//  Percentage >= 40% : Grade E
+//  Percentage < 40% : Grade F
+
+
 package java_projects_1;// This line denotes the folder of the file where it is stored
 import java.util.Scanner;
 
-public class percentagecal_4{//class name should be created sames as file name
+public class percentagecal_7{//class name should be created sames as file name
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -1,7 +1,14 @@
+// Write a menu driven program in Java to accept a number and perform the
+// following operations depending on the user's choice:
+//  Entered number is a Buzz number or not.
+//  Entered number is even or odd.
+//  Entered number is positive or negative.
+
+
 package java_projects_1;// This line denotes the folder of the file where it is stored
 import java.util.Scanner;// It is used to get input
 
-public class menudrivenprogram_5{//class name should be created sames as file name
+public class menudrivenprogram_9{//class name should be created sames as file name
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int choice;

@@ -1,6 +1,13 @@
+// Write a java program to find the following pattern:
+
+//    *
+//   ** 
+//  ***
+// **** 
+
 package java_projects_1;// This line denotes the folder of the file where it is stored
 
-public class starpattern_3 {//class name should be created sames as file name
+public class starpattern_5 {//class name should be created sames as file name
     public static void main(String[] args) {
         int rows = 4; 
         for (int i = 1; i <= rows; i++) {
