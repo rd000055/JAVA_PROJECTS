@@ -1,6 +1,6 @@
-package java_projects_1;
+package java_projects_1;// This line denotes the folder of the file where it is stored
 
-public class primenumber {
+public class primenumber_2 {//class name should be created sames as file name
 
   public static boolean isPrime(int number) {
     if(number == 2) return true;
@@ -28,3 +28,22 @@ public class primenumber {
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// CREATED BY KERSTON2104 ON GITHUB

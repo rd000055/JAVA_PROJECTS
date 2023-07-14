@@ -3,7 +3,7 @@
 
 package java_projects_1;// This line denotes the folder of the file where it is stored
 
-public class voting {
+public class voting_1 {//class name should be created sames as file name
  public static void main(String[] args) 
  {
     int age;
@@ -18,3 +18,28 @@ public class voting {
     }
  }
 }
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// CREATED BY KERSTON2104 ON GITHUB
