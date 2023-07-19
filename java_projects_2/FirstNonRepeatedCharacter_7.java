@@ -1,6 +1,7 @@
 // Write a program in Java to find the first non-repeated character in a character array. For
 // example, the first non-repeated character in the input 'abcdab' is 'c'.
 
+// procedure:
 // 1.The program prompts the user for a character array input.
 // 2.It counts the occurrences of each character using an integer array count.
 // 3.The first non-repeated character is found by looping through the array.

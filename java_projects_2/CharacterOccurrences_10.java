@@ -1,6 +1,12 @@
 // Perform the following operations:
 // 1.Write a program in Java to count the occurrence of a given character in an array?
 
+//procedure:
+// The program prompts the user for a character array and a target character.
+// It converts the input String to a character array.
+// The countOccurrences function is called to count the occurrences of the target character in the array.
+// The count of occurrences is displayed to the user.
+// The program uses Scanner to gather input from the user.
 
 package java_projects_2;// This line denotes the folder of the file where it is stored
 
