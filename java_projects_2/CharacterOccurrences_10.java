@@ -1,6 +1,6 @@
 // Perform the following operations:
 // 1.Write a program in Java to count the occurrence of a given character in an array?
-// 2.Write a program in Java to return the highest occurred character in an array?
+
 
 package java_projects_2;// This line denotes the folder of the file where it is stored
 

@@ -1,3 +1,5 @@
+// 2.Write a program in Java to return the highest occurred character in an array?
+
 package java_projects_2;
 
 
