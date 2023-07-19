@@ -34,4 +34,3 @@ public class CharacterOccurrences_10 {
         return count;
     }
 }
-
