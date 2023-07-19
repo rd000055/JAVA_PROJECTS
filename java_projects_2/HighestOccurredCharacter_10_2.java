@@ -1,5 +1,12 @@
 // 2.Write a program in Java to return the highest occurred character in an array?
 
+//procedure:
+// 1.The program takes a character array input from the user using Scanner.
+// 2.It initializes an array charOccurrences to count the occurrences of each character (assuming ASCII characters).
+// 3.The program calculates the highest occurred character by iterating through the input array and updating the occurrences.
+// 4.The character with the highest occurrence is found and stored in highestChar.
+// 5.Finally, the highest occurred character is displayed as the output.
+
 package java_projects_2;
 
 
