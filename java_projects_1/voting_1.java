@@ -3,20 +3,24 @@
 
 package java_projects_1;// This line denotes the folder of the file where it is stored
 
-public class voting_1 {//class name should be created sames as file name
- public static void main(String[] args) 
- {
-    int age;
-    age = 17;
-    if(age>=18)
+import java.util.Scanner;//Import the required scanner to get input from the user.
+
+public class voting_1{
+    public static void main(String[] args)
     {
-        System.out.println("you are eligible to cast vote");
+        int age;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your age=");
+        age = sc.nextInt();
+        if (age >= 18)
+        {
+            System.out.println("You are eligible to cast your vote.");
+        }
+        else
+        {
+            System.out.println("You are not eligible to cast your vote.");
+        }
     }
-    else
-    {
-    System.out.println("Sorry,you are not eligible to cast vote");
-    }
- }
 }
             
 
