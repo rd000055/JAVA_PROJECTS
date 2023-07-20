@@ -35,17 +35,3 @@ public class primenumber_3 {//class name should be created sames as file name
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// CREATED BY KERSTON2104 ON GITHUB
