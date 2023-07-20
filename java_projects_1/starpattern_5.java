@@ -24,18 +24,3 @@ public class starpattern_5 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// CREATED BY KERSTON2104 ON GITHUB
