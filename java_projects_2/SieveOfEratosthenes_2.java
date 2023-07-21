@@ -18,7 +18,6 @@ public class SieveOfEratosthenes_2 {
         // Step 1: Fill the array num[100] with numbers from 1 to 100
         for (int i = 0; i <= limit; i++) {
             primes[i] = true;
-            System.out.println(primes[i]);
         }
         
         // Step 2: Starting with the second entry in the array, set all its multiples to zero.

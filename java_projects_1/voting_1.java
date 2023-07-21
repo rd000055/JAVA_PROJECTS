@@ -27,23 +27,3 @@ public class voting_1{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// CREATED BY KERSTON2104 ON GITHUB

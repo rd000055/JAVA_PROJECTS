@@ -60,18 +60,3 @@ public class percentagecal_7{//class name should be created sames as file name
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// CREATED BY KERSTON2104 ON GITHUB
