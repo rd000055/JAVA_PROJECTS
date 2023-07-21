@@ -1,5 +1,6 @@
 package java_projects_1;
-
+// Write a java program that takes 3 inputs from the user and prints the greatest of
+// 3 numbers.
 
 import java.util.Scanner;
 
@@ -21,7 +22,6 @@ public class GreatestOfThreeNumbers_2 {
 
         scanner.close();
     }
-
     public static int findGreatest(int a, int b, int c) {
         // Compare three numbers and find the greatest one
         if (a >= b && a >= c) {
