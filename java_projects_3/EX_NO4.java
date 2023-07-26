@@ -1,4 +1,4 @@
-package java_projects_3;
+apackage java_projects_3;
 
 // In an customer care automation application, the names of the customers need to be
 // maintained in an ascending order (alphabetically). Write a JAVA program to get
